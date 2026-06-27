@@ -1,0 +1,660 @@
+{
+  "phong": [
+    {
+      "so_phong": "101",
+      "tang": 1,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "102",
+      "tang": 1,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "103",
+      "tang": 1,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "104",
+      "tang": 1,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "105",
+      "tang": 1,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "106",
+      "tang": 1,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "107",
+      "tang": 1,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "108",
+      "tang": 1,
+      "loai_phong": "Suite",
+      "gia_niem_yet": 1200000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng Suite sang trọng, đẳng cấp thượng lưu",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh",
+        "Bồn tắm mini"
+      ]
+    },
+    {
+      "so_phong": "201",
+      "tang": 2,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "202",
+      "tang": 2,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "203",
+      "tang": 2,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "204",
+      "tang": 2,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "205",
+      "tang": 2,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "206",
+      "tang": 2,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "207",
+      "tang": 2,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "208",
+      "tang": 2,
+      "loai_phong": "Suite",
+      "gia_niem_yet": 1200000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng Suite sang trọng, đẳng cấp thượng lưu",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh",
+        "Bồn tắm mini"
+      ]
+    },
+    {
+      "so_phong": "301",
+      "tang": 3,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "302",
+      "tang": 3,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "303",
+      "tang": 3,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "304",
+      "tang": 3,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "305",
+      "tang": 3,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "306",
+      "tang": 3,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "307",
+      "tang": 3,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "308",
+      "tang": 3,
+      "loai_phong": "Suite",
+      "gia_niem_yet": 1200000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng Suite sang trọng, đẳng cấp thượng lưu",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh",
+        "Bồn tắm mini"
+      ]
+    },
+    {
+      "so_phong": "401",
+      "tang": 4,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "402",
+      "tang": 4,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "403",
+      "tang": 4,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "404",
+      "tang": 4,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "405",
+      "tang": 4,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "406",
+      "tang": 4,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "407",
+      "tang": 4,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "408",
+      "tang": 4,
+      "loai_phong": "Suite",
+      "gia_niem_yet": 1200000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng Suite sang trọng, đẳng cấp thượng lưu",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh",
+        "Bồn tắm mini"
+      ]
+    },
+    {
+      "so_phong": "501",
+      "tang": 5,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "502",
+      "tang": 5,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "503",
+      "tang": 5,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "504",
+      "tang": 5,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "505",
+      "tang": 5,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "506",
+      "tang": 5,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "507",
+      "tang": 5,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "508",
+      "tang": 5,
+      "loai_phong": "Suite",
+      "gia_niem_yet": 1200000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng Suite sang trọng, đẳng cấp thượng lưu",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh",
+        "Bồn tắm mini"
+      ]
+    },
+    {
+      "so_phong": "601",
+      "tang": 6,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "602",
+      "tang": 6,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "603",
+      "tang": 6,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "604",
+      "tang": 6,
+      "loai_phong": "Tiêu chuẩn",
+      "gia_niem_yet": 300000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng tiêu chuẩn đơn giản, sạch sẽ thoải mái",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Quạt điện"
+      ]
+    },
+    {
+      "so_phong": "605",
+      "tang": 6,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "606",
+      "tang": 6,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "607",
+      "tang": 6,
+      "loai_phong": "VIP",
+      "gia_niem_yet": 600000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng VIP không gian rộng rãi, tiện nghi cao cấp",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh"
+      ]
+    },
+    {
+      "so_phong": "608",
+      "tang": 6,
+      "loai_phong": "Suite",
+      "gia_niem_yet": 1200000.0,
+      "trang_thai": "Trống",
+      "mo_ta": "Phòng Suite sang trọng, đẳng cấp thượng lưu",
+      "tien_ich": [
+        "Wifi",
+        "Tivi",
+        "Điều hòa",
+        "Tủ lạnh",
+        "Bồn tắm mini"
+      ]
+    }
+  ],
+  "dat_phong": [],
+  "bo_dem_dat_phong": 1
+}
